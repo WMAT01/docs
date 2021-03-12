@@ -20,7 +20,7 @@ Check the __Screen Sharing__ checkbox to make the screen of your computer access
 
 ## Accessing the screen of a remote computer that has Screen Sharing enabled
 
-If Screen Sharing is active on the remote computer, then you can use [SSVNC](http://www.karlrunge.com/x11vnc/ssvnc.html) (available for Windows, Mac OS X, and various Unix-like systems) to access the machine over the local area network.
+If Screen Sharing is active on the remote computer, then you can use [SSVNC](http://www.karlrunge.com/x11vnc/ssvnc.html) (available for Windows, Mac OS X, and various Unix-like systems) to access the machine over the local area network. (<-- Link Broken; SSVNC viability in question)
 
 In SSVNC please do: 
 * Under "VNC Host_Display" please enter: <IP Address>:0
